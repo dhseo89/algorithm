@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Dijkstra_basic {
 
 	static int N,M,K;
 	static int[][] map;
