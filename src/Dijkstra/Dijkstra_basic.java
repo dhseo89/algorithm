@@ -1,3 +1,4 @@
+package Dijkstra;
 import java.util.Scanner;
 
 public class Dijkstra_basic {
